@@ -1,0 +1,92 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +3V
+K POWER, PWR
+$ENDCMP
+#
+$CMP AVDD
+K POWER, PWR
+$ENDCMP
+#
+$CMP BUTTON
+D Arcade Button Connector
+K connector
+$ENDCMP
+#
+$CMP CAN_EXT
+D Connector, single row, 01x04
+K connector
+$ENDCMP
+#
+$CMP CVDD
+K POWER, PWR
+$ENDCMP
+#
+$CMP IOVDD
+K POWER, PWR
+$ENDCMP
+#
+$CMP L6920DB
+D Synchronous rectifier step up converter
+$ENDCMP
+#
+$CMP LED_Strip
+D LED Strip
+$ENDCMP
+#
+$CMP LIS3DH
+D MEMS digital output motion sensor
+$ENDCMP
+#
+$CMP LM22676QMRX-ADJ
+D LM22676/-Q1 42 V, 3 A SIMPLE SWITCHER® Step-Down Voltage Regulator with Features
+$ENDCMP
+#
+$CMP LM2596S-5.0
+D 4.5V to 40V, 3A Low Component Count Step-Down Regulator
+K 3A Low Component Count Step-Down Regulator
+F http://www.ti.com/lit/ds/snvs124d/snvs124d.pdf
+$ENDCMP
+#
+$CMP MP45DT02-M
+D MEMS audio sensor omnidirectional digital microphone
+$ENDCMP
+#
+$CMP STEREO-AUDIO-JACK
+D 3.5 MM AUDIO JACK
+K AUDIO JACK
+$ENDCMP
+#
+$CMP STM32F407VETx
+D Core: ARM Cortex-M4 Package: LQFP100 Flash: 512KB Ram: 128KB Frequency: 168MHz Voltage: 1.8..3.6V IO-pins: 82
+K ARM Cortex-M4 STM32F4 STM32F407/417
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00037051.pdf
+$ENDCMP
+#
+$CMP STM32F407VETx_minimal
+D Core: ARM Cortex-M4 Package: LQFP100 Flash: 512KB Ram: 128KB Frequency: 168MHz Voltage: 1.8..3.6V IO-pins: 82
+K ARM Cortex-M4 STM32F4 STM32F407/417
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00037051.pdf
+$ENDCMP
+#
+$CMP STM32F407VGTx
+D Core: ARM Cortex-M4 Package: LQFP100 Flash: 512KB Ram: 128KB Frequency: 168MHz Voltage: 1.8..3.6V IO-pins: 82
+K ARM Cortex-M4 STM32F4 STM32F407/417
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00037051.pdf
+$ENDCMP
+#
+$CMP SWD
+D SWD Connector
+$ENDCMP
+#
+$CMP USBTOUARTCP2102
+D Connector, single row, 01x06
+K connector
+$ENDCMP
+#
+$CMP USB_TO_UART_CP2102
+D Connector, single row, 01x06
+K connector
+$ENDCMP
+#
+#End Doc Library
