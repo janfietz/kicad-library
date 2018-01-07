@@ -79,6 +79,10 @@ $CMP SWD
 D SWD Connector
 $ENDCMP
 #
+$CMP TXS0101
+D 1-Bit Bidirectional Level-Shifting and Voltage Translator
+$ENDCMP
+#
 $CMP USBTOUARTCP2102
 D Connector, single row, 01x06
 K connector
