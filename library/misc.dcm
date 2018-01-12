@@ -93,4 +93,8 @@ D Connector, single row, 01x06
 K connector
 $ENDCMP
 #
+$CMP conn_uart
+D UART Pin Header
+$ENDCMP
+#
 #End Doc Library
